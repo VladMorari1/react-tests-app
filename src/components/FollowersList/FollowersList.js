@@ -35,7 +35,7 @@ export default function FollowersList() {
                 ))}
             </div>
             <div className="todo-footer">
-                <Link to="/">Go Back !</Link>
+                <Link to="/">Go Back {'<<<'}</Link>
             </div>
         </div>
     )
